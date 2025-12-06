@@ -45,10 +45,10 @@ Here, you can insert your repository to your own GitHub account, or you can push
 ### S.E. Internship Members of LTI, 2025/2026: 9 Member(s)
 
 
-- [Full Name](your_github_account_link) `[S.E. Internship Member of LTI, 2024/2025]`
+- [Daffa ALwan Aziz(https://github.com/DNALWANA) `[S.E. Internship Member of LTI, 2024/2025]`
 
-> [DESCRIPTION]  
->> `Project Link:` [Project Title](your_github_project_link)
+> Make system that can detect the "owner" with cam   
+>> `Project Link:` [Recognize Face System  ](https://github.com/DNALWANA/Recognize-Face-System)
 
 ---
 
