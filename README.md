@@ -45,12 +45,12 @@ Here, you can insert your repository to your own GitHub account, or you can push
 ### S.E. Internship Members of LTI, 2025/2026: 9 Member(s)
 
 
-- [Daffa ALwan Aziz(https://github.com/DNALWANA) `[S.E. Internship Member of LTI, 2024/2025]`
+- [Daffa Alwan Aziz](https://github.com/DNALWANA) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > Make system that can detect the "owner" with cam   
 >> `Project Link:` [Recognize Face System  ](https://github.com/DNALWANA/Recognize-Face-System)
 
-- [Muhammad Farhan Al Hasan(https://github.com/farhanlhsn) `[S.E. Internship Member of LTI, 2024/2025]`
+- [Muhammad Farhan Al Hasan](https://github.com/farhanlhsn) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > Automatic PPE Compliance Detection for Construction Sites (Focusing on Safety Goggles) using Haar Cascades and Canny Edge Detection.
 >> `Project Link:` [VisionGuard](https://github.com/farhanlhsn/LTI_WEEK2_VisionGuard)
