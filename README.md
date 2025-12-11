@@ -55,6 +55,11 @@ Here, you can insert your repository to your own GitHub account, or you can push
 > Automatic PPE Compliance Detection for Construction Sites (Focusing on Safety Goggles) using Haar Cascades and Canny Edge Detection.
 >> `Project Link:` [VisionGuard](https://github.com/farhanlhsn/LTI_WEEK2_VisionGuard)
 
+- [Alfin Wijaya Isdiyono](https://github.com/apinnni) `[S.E. Internship Member of LTI, 2025/2026]`
+
+> Live cam face identifier using Haar Cascades
+>> `Project Link:` [Face Identifier](https://github.com/apinnni/LTI-week2_Face-Idetifier-with-Haar-Cascade.git)
+
 ---
 
 Copyright ⓒ LumiaTech Innovations, 2025.
